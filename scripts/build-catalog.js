@@ -320,7 +320,7 @@ function buildCatalog() {
   const catalog = {
     generatedAt: '2026-02-08T00:00:00.000Z',
     total: catalogSkills.length,
-    skills: catalogSkills.sort((a, b) => a.id.localeCompare(b.id)),
+    skills: catalogSkills.sort((a, b) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0)),
   };
 
   const aliases = buildAliases(catalog.skills);
