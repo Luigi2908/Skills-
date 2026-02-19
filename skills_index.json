@@ -7810,5 +7810,14 @@
     "description": "Create Zustand stores with TypeScript, subscribeWithSelector middleware, and proper state/action separation. Use when building React state management, creating global stores, or implementing reactive state patterns with Zustand.",
     "risk": "unknown",
     "source": "unknown"
+  },
+  {
+    "id": "outbox-pattern",
+    "path": "skills/outbox-pattern-skill",
+    "category": "architecture",
+    "name": "outbox-pattern",
+    "description": "Implements the Transactional Outbox pattern for reliable message publishing when updating a database. Ensures atomicity between DB writes and event/message delivery to brokers (RabbitMQ, Kafka). Use when implementing event-driven architectures, saga patterns, domain events, or guaranteed delivery without 2PC. Prioritizes NestJS with TypeORM.",
+    "risk": "unknown",
+    "source": "unknown"
   }
 ]
