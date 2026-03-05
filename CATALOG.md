@@ -2,7 +2,7 @@
 
 Generated at: 2026-02-08T00:00:00.000Z
 
-Total skills: 978
+Total skills: 979
 
 ## architecture (67)
 
@@ -132,7 +132,7 @@ calculations | startup, business, analyst, market, opportunity | startup, busine
 | `startup-financial-modeling` | This skill should be used when the user asks to \\\"create financial projections", "build a financial model", "forecast revenue", "calculate burn rate", "est... | startup, financial, modeling | startup, financial, modeling, skill, should, used, user, asks, projections, model, forecast, revenue |
 | `whatsapp-automation` | Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for c... | whatsapp | whatsapp, automation, automate, business, tasks, via, rube, mcp, composio, send, messages, upload |
 
-## data-ai (179)
+## data-ai (180)
 
 | Skill | Description | Tags | Triggers |
 | --- | --- | --- | --- |
@@ -237,6 +237,7 @@ calculations | startup, business, analyst, market, opportunity | startup, busine
 | `dbt-transformation-patterns` | Master dbt (data build tool) for analytics engineering with model organization, testing, documentation, and incremental strategies. Use when building data tr... | dbt, transformation | dbt, transformation, data, analytics, engineering, model, organization, testing, documentation, incremental, building, transformations |
 | `documentation-generation-doc-generate` | You are a documentation expert specializing in creating comprehensive, maintainable documentation from code. Generate API docs, architecture diagrams, user g... | documentation, generation, doc, generate | documentation, generation, doc, generate, specializing, creating, maintainable, code, api, docs, architecture, diagrams |
 | `documentation-templates` | Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation. | documentation | documentation, structure, guidelines, readme, api, docs, code, comments, ai, friendly |
+| `drizzle-orm-expert` | Expert in Drizzle ORM for TypeScript — schema design, relational queries, migrations, and serverless database integration. Use when building type-safe databa... | drizzle, orm | drizzle, orm, typescript, schema, relational, queries, migrations, serverless, database, integration, building, type |
 | `embedding-strategies` | Select and optimize embedding models for semantic search and RAG applications. Use when choosing embedding models, implementing chunking strategies, or optim... | embedding, strategies | embedding, strategies, select, optimize, models, semantic, search, rag, applications, choosing, implementing, chunking |
 | `fal-audio` | Text-to-speech and speech-to-text using fal.ai audio models | fal, audio | fal, audio, text, speech, ai, models |
 | `fal-generate` | Generate images and videos using fal.ai AI models | fal, generate | fal, generate, images, videos, ai, models |
