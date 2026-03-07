@@ -1,5 +1,5 @@
-<!-- registry-sync: version=7.1.0; skills=1273; stars=21204; updated_at=2026-03-07T10:27:11+00:00 -->
-# 🌌 Antigravity Awesome Skills: 1,273+ Agentic Skills for Claude Code, Gemini CLI, Cursor, Copilot & More
+<!-- registry-sync: version=7.1.0; skills=1272; stars=21203; updated_at=2026-03-07T10:19:16+00:00 -->
+# 🌌 Antigravity Awesome Skills: 1,272+ Agentic Skills for Claude Code, Gemini CLI, Cursor, Copilot & More
 
 > **The Ultimate Collection of 1,273+ Universal Agentic Skills for AI Coding Assistants — Claude Code, Gemini CLI, Codex CLI, Antigravity IDE, GitHub Copilot, Cursor, OpenCode, AdaL**
 
@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [🚀 New Here? Start Here!](#new-here-start-here)
-- [📖 Complete Usage Guide](docs/USAGE.md) - **Start here if confused after installation!**
+- [📖 Complete Usage Guide](docs/users/usage.md) - **Start here if confused after installation!**
 - [🔌 Compatibility & Invocation](#compatibility--invocation)
 - [🛠️ Installation](#installation)
 - [🧯 Troubleshooting](#troubleshooting)
@@ -58,7 +58,7 @@ AI Agents (like Claude Code, Cursor, or Gemini) are smart, but they lack **speci
 
 ### 2. ⚡️ Quick Start (1 minute)
 
-Install once; then use Starter Packs in [docs/BUNDLES.md](docs/BUNDLES.md) to focus on your role.
+Install once; then use Starter Packs in [docs/users/bundles.md](docs/users/bundles.md) to focus on your role.
 
 1. **Install**:
 
@@ -89,9 +89,9 @@ Once installed, just ask your agent naturally:
 > "Use the **@brainstorming** skill to help me plan a SaaS."
 > "Run **@lint-and-validate** on this file."
 
-👉 **NEW:** [**Complete Usage Guide - Read This First!**](docs/USAGE.md) (answers: "What do I do after installation?", "How do I execute skills?", "What should prompts look like?")
+👉 **NEW:** [**Complete Usage Guide - Read This First!**](docs/users/usage.md) (answers: "What do I do after installation?", "How do I execute skills?", "What should prompts look like?")
 
-👉 **[Full Getting Started Guide](docs/GETTING_STARTED.md)**
+👉 **[Full Getting Started Guide](docs/users/getting-started.md)**
 
 ---
 
@@ -238,11 +238,11 @@ They help you avoid picking from 1006+ skills one by one.
 ### How to use bundles:
 
 1. **Install the repository once** (you already have all skills)
-2. **Browse bundles** in [docs/BUNDLES.md](docs/BUNDLES.md) to find your role
+2. **Browse bundles** in [docs/users/bundles.md](docs/users/bundles.md) to find your role
 3. **Pick 3-5 skills** from that bundle to start using in your prompts
 4. **Reference them in your conversations** with your AI (e.g., "Use @brainstorming...")
 
-For detailed examples of how to actually use skills, see the [**Usage Guide**](docs/USAGE.md).
+For detailed examples of how to actually use skills, see the [**Usage Guide**](docs/users/usage.md).
 
 ### Examples:
 
@@ -259,7 +259,7 @@ Bundles help you choose skills. Workflows help you execute them in order.
 
 Start here:
 
-- [docs/WORKFLOWS.md](docs/WORKFLOWS.md): human-readable playbooks.
+- [docs/users/workflows.md](docs/users/workflows.md): human-readable playbooks.
 - [data/workflows.json](data/workflows.json): machine-readable workflow metadata.
 
 Initial workflows include:
@@ -415,10 +415,10 @@ This collection would not be possible without the incredible work of the Claude 
 ## Repo Contributors
 
 <a href="https://github.com/sickn33/antigravity-awesome-skills/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sickn33/antigravity-awesome-skills" alt="Repository contributors" />
+  <img src="https://contrib.rocks/image?repo=sickn33/antigravity-awesome-skills&max=120" alt="Repository contributors" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks). *(Image may be cached; [view live contributors](https://github.com/sickn33/antigravity-awesome-skills/graphs/contributors) on GitHub.)*
 
 We officially thank the following contributors for their help in making this repository awesome!
 
